@@ -1,0 +1,9 @@
+{
+	"name": "gdsdatafactorydemokrish",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c70d341e-17d8-4f28-8637-ae064213d25a",
+		"tenantId": "7d9eac06-a05d-4ada-a02c-3b0212073b50"
+	}
+}
